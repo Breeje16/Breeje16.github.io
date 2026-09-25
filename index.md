@@ -15,7 +15,7 @@ I Find Bugs. My main aim is to contribute as much as I can in making the blockch
 - 5th place in [Blueberry Protocol Audit](https://app.sherlock.xyz/audits/contests/69) on Sherlock.
 - Found over 50+ HMs in Competitive Audits.
 - 5+ Paid Bug Reports on Immunefi.
-- 2 Paid Bug Reports on HackenProof.
+- 5+ Paid Bug Reports on HackenProof.
 
 # Currently
 
